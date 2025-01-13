@@ -1,0 +1,38 @@
+*
+{
+    padding: 0%;
+    margin: 0%;
+}
+html 
+{
+    margin-left: 3%;
+    margin-right: 3%;
+    font-family: sans-serif;
+    font-size: 125%;
+    background-color: #0f172a;
+    color: white;
+}
+p 
+{
+    line-height: 1.5;
+}
+a 
+{
+    color: #7b889d;
+    line-height: 1.5;
+}
+h3 
+{
+    margin-top: 2%;
+}
+.pageHeader
+{
+    font-size: 350%;
+    padding-top: 2%;
+}
+.pullQuote
+{
+    color: #7b889d;
+    margin-bottom: 2%;
+    font-size: 200%;
+}
